@@ -1,6 +1,6 @@
 # challenge-amigo-secreto-alura
 amigo secreto challenge alura
-# 🎁 Amigo Secreto - Challenge Alura Latam
+ # Amigo Secreto - Challenge Alura Latam
 
 Este proyecto es parte del Challenge de Lógica de Programación de Alura Latam.  
 El objetivo es crear una aplicación simple en *JavaScript, HTML y CSS* que permita:
